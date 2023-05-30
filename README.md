@@ -1,6 +1,8 @@
 # TeamsDeeplinkHelper
 Teams Deeplink Helper is a PowerApps to help you create Teams deeplink to consume content in Teams.
 
+Just important the PowerApps and you can use it to generate Teams Deeplinks to consume SPO, Forms, Streams & PowerApps in a Stage view in TEams.
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
